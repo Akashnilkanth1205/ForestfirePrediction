@@ -142,8 +142,8 @@ elif a=="Welcome":
 
             st.header("Welcome to FOREST FIRE PREDICTION")
             st.subheader("BE Computer Engineering Project")
-            st.subheader("Project Name- FOREST FIRE PREDICTION USING MACHINE LEARNING LINEAR REGRESSION ALGORITHM")
-            st.subheader("Project by-")
+            st.header("Project Tittle-  "FOREST FIRE PREDICTION USING MACHINE LEARNING LINEAR REGRESSION ALGORITHM" ")
+            st.header("Project by-")
             st.text("Akash Nilkanth")
             st.text("Siddesh Karpe")
             st.text("Mayur Gavali")
