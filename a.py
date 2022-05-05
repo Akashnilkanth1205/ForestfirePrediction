@@ -141,7 +141,8 @@ elif a=='Automated ML Module':
 elif a=="Welcome":
 
             st.header("Welcome to FOREST FIRE PREDICTION")
-            st.subheader("Project by-Akash Nilkanth")
+            st.header("BE Computer Engineering Project")
+               st.subheader("Project by- Akash Nilkanth,Siddesh Karpe,Mayur Gavali,Tushar Bhamare")
 
 
 
