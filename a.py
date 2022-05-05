@@ -142,8 +142,9 @@ elif a=="Welcome":
 
             st.header("Welcome to FOREST FIRE PREDICTION")
             st.header("BE Computer Engineering Project")
-            st.subheader("Project by- Akash Nilkanth,Siddesh Karpe,Mayur Gavali,Tushar Bhamare")
-
+            st.subheader("Project by-")
+            st.text("Akash Nilkanth")
+            st.text("Siddesh Karpe")
 
 
 
