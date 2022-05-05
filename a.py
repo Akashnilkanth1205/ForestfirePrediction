@@ -140,14 +140,14 @@ elif a=='Automated ML Module':
 
 elif a=="Welcome":
 
-            st.header("Welcome to FOREST FIRE PREDICTION")
+            st.Tittle("Welcome to FOREST FIRE PREDICTION")
             st.subheader("BE Computer Engineering Project")
-            st.header("Project Tittle-  'FOREST FIRE PREDICTION USING MACHINE LEARNING LINEAR REGRESSION ALGORITHM' ")
+            st.Tittle("Project Tittle-  'FOREST FIRE PREDICTION USING MACHINE LEARNING LINEAR REGRESSION ALGORITHM' ")
             st.header("Project by-")
-            st.text("Akash Nilkanth")
-            st.text("Siddesh Karpe")
-            st.text("Mayur Gavali")
-            st.text("Tushar Bhamare")
+            st.subheader("Akash Nilkanth")
+            st.subheader("Siddesh Karpe")
+            st.subheader("Mayur Gavali")
+            st.subheader("Tushar Bhamare")
 
 
 
